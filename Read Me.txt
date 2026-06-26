@@ -1,4 +1,4 @@
-
+NOTE(I have include everything in the so any one who want to use my app dont need to do any thing just download and run in local machine.)
 This Project is Created in 
                            Frontend        React Js
                            Backend         Node/Express
